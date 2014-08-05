@@ -1,0 +1,30 @@
+{
+  "name": "D3_WorldMap",
+  "version": "0.0.0",
+  "homepage": "https://github.com/joverall22/D3_WorldMap",
+  "authors": [
+    "joverall22 <joverall22@gmail.com>"
+  ],
+  "description": "A world Map using D3",
+  "main": "app.js",
+  "keywords": [
+    "D3",
+    "world",
+    "map"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "d3": "~3.4.11",
+    "datamaps": "~0.3.3",
+    "topojson": "~1.6.15",
+    "bootstrap": "~3.2.0"
+  }
+}
